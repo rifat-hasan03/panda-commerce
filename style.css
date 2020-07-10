@@ -19,3 +19,42 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: rgb(153, 30, 46);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: rgb(221, 94, 21);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: rgb(20, 92, 92);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: whitesmoke;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
